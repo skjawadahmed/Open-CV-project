@@ -1,6 +1,8 @@
 # Open-CV-project
 # Identical Image Cleaner for Desktops and Laptops
 
+This tool is perfect for anyone looking to organize their image collections by removing duplicate images and freeing up storage space.
+
 The **Identical Image Cleaner** is a specialized desktop application designed to help users identify and remove duplicate images from their local folders with ease. Whether you're a photographer, designer, or someone with a large collection of images, this tool can help streamline your image management by efficiently detecting and removing duplicates.
 
 ## Purpose
@@ -36,4 +38,6 @@ This tool is ideal for anyone who deals with large numbers of images, such as:
 ## Conclusion
 
 The **Identical Image Cleaner** offers a fast, efficient, and user-friendly solution for managing image collections. By using advanced hashing techniques, it ensures accurate detection of duplicates while providing a simple interface for visual comparison and deletion. This tool helps you maintain a clutter-free, organized image library while saving valuable storage space.
+
+
 
