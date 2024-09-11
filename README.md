@@ -36,6 +36,7 @@ Over time, image libraries can accumulate many duplicate files, which take up va
 ```bash
   streamlit run app.py
 ```
+5. Copy paste the path to the folder containing images 
 
 ## Key Features
 
