@@ -36,6 +36,9 @@ This tool is ideal for anyone who deals with large numbers of images, such as:
 - **Everyday Users**: Organize your personal photo collections by finding and deleting duplicate images, saving disk space in the process.
 
 ## Screenshots
+![Screenshot 2024-09-11 225428](https://github.com/user-attachments/assets/f6d1d3af-49db-4bb2-b155-2b840188ecd4)
+![Screenshot 2024-09-11 225457](https://github.com/user-attachments/assets/4c191550-d3af-4038-9850-4b6ba7353808)
+![Screenshot 2024-09-11 225520](https://github.com/user-attachments/assets/9309dd5a-f437-4bd4-9cd2-69a1c0e5e146)
 
 ## Conclusion
 
