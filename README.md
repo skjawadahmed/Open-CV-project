@@ -35,6 +35,8 @@ This tool is ideal for anyone who deals with large numbers of images, such as:
 - **Designers**: Clean up your workspace by eliminating duplicate images that clutter your project folders.
 - **Everyday Users**: Organize your personal photo collections by finding and deleting duplicate images, saving disk space in the process.
 
+## Screenshots
+
 ## Conclusion
 
 The **Identical Image Cleaner** offers a fast, efficient, and user-friendly solution for managing image collections. By using advanced hashing techniques, it ensures accurate detection of duplicates while providing a simple interface for visual comparison and deletion. This tool helps you maintain a clutter-free, organized image library while saving valuable storage space.
