@@ -19,6 +19,24 @@ Over time, image libraries can accumulate many duplicate files, which take up va
 
 4. **One-Click Deletion**: After viewing the duplicates, users can choose to delete unnecessary files with a single click. The app safely removes the selected duplicates, helping you free up storage space without having to manually sort through the files.
 
+## Installation
+1. Clone this Repository
+```bash
+  https://github.com/skjawadahmed/ML-project.git
+  cd ML-project
+```
+
+2. Install required dependencies: Install all the libraries present in (requirements.txt) file.
+```bash
+  pip install -r requirements.txt
+```
+3. Click on app.py file
+
+4. Run this command in terminal
+```bash
+  streamlit run app.py
+```
+
 ## Key Features
 
 - **Efficient Scanning**: Utilizes the fast and accurate dHash algorithm to identify duplicates in large image collections.
