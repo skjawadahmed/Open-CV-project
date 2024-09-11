@@ -22,8 +22,8 @@ Over time, image libraries can accumulate many duplicate files, which take up va
 ## Installation
 1. Clone this Repository
 ```bash
-  https://github.com/skjawadahmed/ML-project.git
-  cd ML-project
+  https://github.com/skjawadahmed/Open-CV-project.git
+  cd Open-CV-project
 ```
 
 2. Install required dependencies: Install all the libraries present in (requirements.txt) file.
